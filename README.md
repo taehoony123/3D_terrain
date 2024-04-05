@@ -13,3 +13,4 @@ push(),pop() 함수에 sphere를 추가하고 directionalLight를 넣어서 마�
 배경색은 background 색을 검정색 느낌을 주기위해 값을 낮게 설정하였습니다
 
 프로젝트를 하면서 p5.js와 조금 더 친해진 것 같습니다. 
+![과제2](https://github.com/taehoony123/3D_terrain/assets/164149952/16acb21f-98c7-41f9-98f3-81fb40a5ac7e)
